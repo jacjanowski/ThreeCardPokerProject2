@@ -35,7 +35,7 @@ public class ThreeCardPokerGame extends Application{
 		// TODO Auto-generated method stub
 		launch(args);
 	}
-//check it out dood
+//check it out dood?
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		// TODO Auto-generated method stub
